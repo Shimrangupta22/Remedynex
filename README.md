@@ -18,20 +18,22 @@ The system utilizes a medical dataset containing symptoms, diseases, and corresp
 - **pandas**: For data manipulation.
 - **numpy**: For numerical computations.
 
-## How to Run
-1. Install the required dependencies:
+## Installation
+1. Ensure you have Python 3.8 or higher installed on your system.
+2. Install the required dependencies using pip:
     ```bash
-    pip install -r requirements.txt
+    pip install scikit-learn pandas numpy
     ```
-   
-2. Open the notebook:
+
+## How to Run
+1. Open the notebook:
     ```bash
     jupyter notebook Drug_recommendation_system.ipynb
     ```
 
-3. Run all cells to train the model and perform predictions.
+2. Run all cells to train the model and perform predictions.
 
-4. Input your symptoms when prompted. The system will display:
+3. Input your symptoms when prompted. The system will display:
     - Predicted disease
     - Description of the disease
     - Medication recommendations
