@@ -1,7 +1,7 @@
-# Drug Recommendation System
+# Remedynex
 
 ## Overview
-The **Drug Recommendation System** is a machine learning-based application designed to predict potential diseases from user-input symptoms and provide personalized medication recommendations. The system aims to assist users by offering relevant drug suggestions, disease descriptions, precautions, and personalized health guidance.
+The **Remedynex** is a machine learning-based drug recommendation system designed to predict potential diseases from user-input symptoms and provide personalized medication recommendations. The system aims to assist users by offering relevant drug suggestions, disease descriptions, precautions, and personalized health guidance.
 
 ## Features
 - **Symptom-Based Disease Prediction**: Enter your symptoms to get the most likely disease predictions.
